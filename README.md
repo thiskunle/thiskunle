@@ -4,7 +4,7 @@
   <img alt="Adekunle Akeju: Software Developer and Cybersecurity Analyst, founder of GramByte Technologies Inc., Toronto." src="assets/banner-light.svg" width="100%">
 </picture>
 
-I build software and I work on keeping it secure. I'm based in Toronto and run GramByte Technologies Inc., where I help businesses with web development, cybersecurity, and cloud.
+I build software and I work on keeping it secure. I'm based in Toronto and run GramByte Technologies Inc., where I help businesses with web and software development, cybersecurity, and cloud.
 
 ### What I work with
 
